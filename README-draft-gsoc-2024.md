@@ -1,5 +1,5 @@
-"Port Cricket to use Toga, instead of Tkinter" proposal for
-Google Summer of Code 2017.
+"Creating a brazilian Boilerplate of a digital participation Platform" proposal for
+Google Summer of Code 2024.
 
 Table of content
 ================
