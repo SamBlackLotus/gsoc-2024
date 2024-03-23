@@ -1,22 +1,29 @@
-"Creating a brazilian Boilerplate of a digital participation Platform" proposal for
-Google Summer of Code 2024.
+"Creating a brazilian boilerplate of a digital participation platform" proposal for
+Google Summer of Code 2024
 ================
 
 Table of content
 ================
 
 1. **Introduction**
-1.1 About the Organization
-1.2 About the Project
 
-2. **Abstract** 
-2.1 The existing platform 
-2.2 Goals - The Boilerplate 
-2.3 Benefits
+    1.1 About the Organization
 
-3. **Proposal Timeline** 
-3.1 Bonding Period
-3.2 Official Coding Period
+    1.2 About the Project
+
+2. **Abstract**
+
+    2.1 The existing platform
+
+    2.2 Goals - The Boilerplate
+
+    2.3 Benefits
+
+3. **Proposal Timeline**
+
+    3.1 Bonding Period
+
+    3.2 Official Coding Period
 
 4. **About me**
 
@@ -42,14 +49,13 @@ Develop a customizable and easy-to-deploy boilerplate based on the principles an
 Promote transparency, engagement, and collaboration between organizations and their stakeholder.
 
 Possible mentors: @LeoSilvaGomes @rocha.carla
+
 Expected size of the project: 350 hours
-
-
 
 # 2 Abstract
 
 ## 2.1 The existing platform
-The current version of the platform presents several difficulties in installation, use and maintenance. Despite being designed to be adaptable, Decidim has some resistance to fully adapting to the environment of other institutions, due to its complexity. Therefore, creating a boilerplate will facilitate the reuse of the platform as an easy-to-apply model.
+The current version of the platform was designed to serve a national scenario, and this makes it difficult to customize for use, for example, by other organizations or even at a state or local level. Therefore, despite the aim of reaching as many people as possible, its level of complexity makes this unfeasible.
 
 ## 2.2 Goals - The Boilerplate
 The objective of this project is to develop a boilerplate that will simplify the development of a participatory platform, which should serve any type of organization, facilitating its initial configuration, and the customization of projects and discussions that will be made available.
@@ -63,25 +69,18 @@ A "Participatory Brazil" boilerplate will make it possible for organizations fro
 ## 3.1 Bonding Period 
 
 ### 3.1.1 Before March 29:
-To familiarize myself completely with Ruby and Rails Framework. 
-The functionalities and architecture of Decidim.
-Study the Brasil Participativo Platform. 
-To contribute to the community solving and issue.
-Write a draft of the proposal to go over with mentors and ask questions.
+Familiarize myself completely with Ruby and Rails Framework, study the Brasil Participativo Platform, the functionalities and architecture of Decidim, and participate in the community solving and issue.
 
 ### 3.1.2 April 02 – May 01 (Before the official coding time):
 
-To do self coding with Ruby on Rails to improve my further understanding and ease of use with this ORM and database(PostgreSQL).
-During this period I will remain in constant touch with my mentor and the community. I will remain active on Telegram to discuss and finalize on the modifications (if any) that needs to be on existing schemas and design of new schemas (if needed to fit cleanly with Decidim and Brasil Participativo Architecture)
-Thus with the help of my mentor I will become absolutely clear about my future goals,the final database implementations that need to be done as well as the approach that I will follow.
-
+Improve my further understanding and ease of use with Rails ORM and database(PostgreSQL).
+During this period I will remain in constant touch with my mentors and the community remaining active on the community communication channels.
 
 ## 3.2 Official Coding Period
 
 ### 3.2.1 May 01 – May 26
 
-To bond with GSoC employees and contributors, meet mentors, read documentation and prepare to work on the project.
-
+Read documentation and prepare to work on the project, make the modifications, if any, that needs to be on existing schemas and design of new schemas (if needed to fit cleanly with Decidim and Brasil Participativo Architecture).Thus with the help of my mentor I will become absolutely clear about my future goals,the final database implementations that need to be done as well as the approach that I will follow.
 
 ### 3.2.2 May 26 – June 26
 
@@ -97,23 +96,27 @@ Continue the focus on transforming the remaining functions such as consultations
 #### Week 4
 Use the last week to take care of testing and final revisions before delivering the first version.
 
-### 3.2.3 June 27 – July 12 (finalizar e enviar projeto para avaliação de meio de prazo)
+### 3.2.3 June 27 – July 12 
+Finalize and submit project for mid-term evaluation.
 
-## 3.2.4 July 13 – August 16 (Trabalhar nas alterações e melhorias solicitadas após avaliação de meio de prazo)
+## 3.2.4 July 13 – August 16 
+Work on changes and improvements requested after mid-term evaluation and prepare documentation for hand off.
 
-## 3.2.5 August 17 – August 26 (Final review and code submit)
+## 3.2.5 August 17 – August 26 
+Final review and code submit.
 
-## 3.2.6 September 17 (Final results announcement)
+## 3.2.6 September 17 
+Final results announcement.
 
 # 4 About Me
 
-My name is Samara Alves Quintino, I'm an undergraduate student pursuing a Bachelor's degree on System Analisys and Development at University Estácio de Sá, and this is my first time applying to Google Summer of Code.
+My name is Samara Alves Quintino, I'm an undergraduate student pursuing a Bachelor's degree on System Analisys and Development at University Estácio de Sá, currently on 4º semester, and this is my first time applying to Google Summer of Code.
 
-I currently work as a development analyst, my career in technology is recent having started just 2 years ago. I have experience in some programming languages ​​such as Delphi which I use at work, Python in personal projects and some databases such as Oracle and Postgres.
+I currently work in a part time job as a development analyst, my career in technology is recent having started just 2 years ago. I have experience in some programming languages ​​such as Delphi which I use at work, Python in personal projects and some databases such as Oracle and Postgres.
 
 I am a mother of two children and I actively participate in the PyLadies Goiânia community, as a way to find encouragement and motivation in addition to helping other women find themselves in technology.
 
-Despite the work and day-to-day challenges as a mother, I saw GSOC as a great opportunity for growth and learning. Since choosing my path in technology, I have always had a clear idea that I wanted to contribute to open source, and I am sure that I will be able to fulfill the proposed demands.
+ I saw GSOC as a great opportunity for growth and learning. Since choosing to follow the back end path, I have always had a clear idea that I wanted to contribute to open source, and I am sure that I will be able to fulfill the proposed demands.
 
 Contact points and general information :
 
@@ -121,11 +124,6 @@ Timezone : UTC-3
 Primary language : Brazilian Portuguese
 Other languages : English (Professional Proficiency)
 E-mail : sam.blacklotus@gmail.com
-Phone number: +55 62 992377969
 Postal address: Anápolis, Goiás, Brazil
 
-University Name: Universidade 
-Major: 
-Current year and expected graduation year:4th semester,2025
-DEGREE: Bachelor's and Associate's degrees
 
