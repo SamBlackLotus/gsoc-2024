@@ -52,15 +52,14 @@ Expected size of the project: 350 hours
 # 2 Abstract
 
 ## 2.1 The existing platform
+The current version of the platform presents several difficulties in installation, use and maintenance. Despite being designed to be adaptable, Decidim has some resistance to fully adapting to the environment of other institutions, due to its complexity. Therefore, creating a boilerplate will facilitate the reuse of the platform as an easy-to-apply model.
 
 ## 2.2 Goals - The Boilerplate
-A fully functional participatory platform boilerplate based on Brasil Participativo. Documentation and user guides for deploying and customizing the boilerplate. Support and maintenance services for a specified period after the initial deployment.
+The objective of this project is to develop a boilerplate that will simplify the development of a participatory platform, which should serve any type of organization, facilitating its initial configuration, and the customization of projects and discussions that will be made available.
+As we are dealing with limited time for project development, it is extremely important to define which parts of the original Decidim will be prioritized, and maintain focus on the main features and customization.
 
-## 2.3 Technology Stacks
-
-
-## 2.4 Benefits
-
+## 2.3 Benefits
+A "Participatory Brazil" boilerplate will make it possible for organizations from all spheres to have their participatory platforms, creating environments that value communication and democracy in their decision-making, bringing visibility and inclusion to everyone who wants to contribute and give their opinion. Facilitating the creation of participatory platforms can encourage organizations to have a transparency portal, providing a channel that generates engagement and communication with society.
 
 # 3 Proposal Timeline
 
@@ -84,10 +83,22 @@ Thus with the help of my mentor I will become absolutely clear about my future g
 
 ### 3.2.1 May 01 – May 26
 
-To bond with GSoC employees, meet mentors, read documentation and prepare to work on the project.
+To bond with GSoC employees and contributors, meet mentors, read documentation and prepare to work on the project.
 
 
-### 3.2.2 May 26 – June 26 (definir o que sera feito e quebrar em datas menores aqui por semana)
+### 3.2.2 May 26 – June 26
+
+# Week 1
+O primeiro objetivo, que calculo demorar em torno de uma semana, transformar em um boilerplater toda a página inicial do "Brasil Participativo", incluindo o login e as páginas do usuário conectado, não contando somente a página de administrador.
+
+# Week 2
+Começar a trabalhar na página do administrador, entendendo a fundo como funciona a alimentação das informações do processo participativo, assembléia, iniciativas e conferências, para transformar esses processos em um boilerplate onde a pessoa configurando, pode definir o que será utilizado, o que não será, deixando mais a utilização da plataforma.
+
+# Week 3
+Continuar transformando as funções da plataforma em boilerplate, de acordo com a priorização, para assim personalizar a utilização do portal.
+
+# Week 4
+Por ultimo investir um tempo em revisar o que foi feito para uma primeira versão de testes da plataforma.
 
 ### 3.2.3 June 27 – July 12 (finalizar e enviar projeto para avaliação de meio de prazo)
 
@@ -96,6 +107,11 @@ To bond with GSoC employees, meet mentors, read documentation and prepare to wor
 ## 3.2.5 August 17 – August 26 (Final review and code submit)
 
 ## 3.2.6 September 17 (Final results announcement)
+
+
+
+
+
 
 # 4 Contributor
 
@@ -116,7 +132,6 @@ My timezone is UTC-3, and I'll dedicate my nights to the project, everyday past 
 
 ### 4.2.3 How to contact me 
 
-email: sam.blacklotus@gmail.com
-github: https://github.com/SamBlackLotus
-whatssap: +55 (62)992377969
-telegram: +55 (62)992377969
+Email: sam.blacklotus@gmail.com
+Github: https://github.com/SamBlackLotus
+Telegram and Whatssap: +55 (62)992377969
