@@ -23,8 +23,6 @@ Table of content
 4.1 About me
 4.2 Contact, Timezone e General Information
 
-
-
 # 1 Introduction
 
 ## 1.1 About the Organization
@@ -93,13 +91,13 @@ To bond with GSoC employees and contributors, meet mentors, read documentation a
 Rewrite the entire "Brasil Participativo" home page, including the login going to the administration panel access part, complying with good boilerplate development practices.
 
 #### Week 2
-Começar a trabalhar no painel de administração, entendendo a fundo como funciona a alimentação das informações do processo participativo, assembléia, iniciativas e conferências, para transformar esses processos em um boilerplate onde a pessoa configurando, pode definir o que será utilizado, o que não será, deixando mais a utilização da plataforma.
+Work in the administration panel, understanding how information feeding of the participatory process, assembly, initiatives and conferences works, to transform these processes into customizable templates, where it is possible to select which functions to add or not, when creating a new participatory process model, optimizing the use of the platform and making it more dynamic and accessible.
 
 #### Week 3
-Continuar transformando as funções da plataforma em boilerplate, de acordo com a priorização, para assim personalizar a utilização do portal.
+Continue the focus on transforming the remaining functions such as consultations, global moderators, newsletters and pages, taking into account whether or not they can be used by the institution, facilitating customization.
 
 #### Week 4
-Por ultimo investir um tempo em revisar o que foi feito para uma primeira versão de testes da plataforma.
+Use the last week to take care of testing and final revisions before delivering the first version.
 
 ### 3.2.3 June 27 – July 12 (finalizar e enviar projeto para avaliação de meio de prazo)
 
