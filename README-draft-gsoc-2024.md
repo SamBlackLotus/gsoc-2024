@@ -12,16 +12,14 @@ Table of content
 2. **Abstract** 
 2.1 The existing platform 
 2.2 Goals - The Boilerplate 
-2.3 Technology Stacks
-2.4 Benefits
+2.3 Benefits
 
 3. **Proposal Timeline** 
 3.1 Bonding Period
 3.2 Official Coding Period
 
-4. **Contributor**
-4.1 About me
-4.2 Contact, Timezone e General Information
+4. **About me**
+
 
 # 1 Introduction
 
@@ -107,30 +105,27 @@ Use the last week to take care of testing and final revisions before delivering 
 
 ## 3.2.6 September 17 (Final results announcement)
 
+# 4 About Me
 
+My name is Samara Alves Quintino, I'm an undergraduate student pursuing a Bachelor's degree on System Analisys and Development at University Estácio de Sá, and this is my first time applying to Google Summer of Code.
 
+I currently work as a development analyst, my career in technology is recent having started just 2 years ago. I have experience in some programming languages ​​such as Delphi which I use at work, Python in personal projects and some databases such as Oracle and Postgres.
 
+I am a mother of two children and I actively participate in the PyLadies Goiânia community, as a way to find encouragement and motivation in addition to helping other women find themselves in technology.
 
+Despite the work and day-to-day challenges as a mother, I saw GSOC as a great opportunity for growth and learning. Since choosing my path in technology, I have always had a clear idea that I wanted to contribute to open source, and I am sure that I will be able to fulfill the proposed demands.
 
-# 4 Contributor
+Contact points and general information :
 
-## 4.1 About Me
+Timezone : UTC-3
+Primary language : Brazilian Portuguese
+Other languages : English (Professional Proficiency)
+E-mail : sam.blacklotus@gmail.com
+Phone number: +55 62 992377969
+Postal address: Anápolis, Goiás, Brazil
 
-## 4.2 General Informations
-
-### 4.2.1 University
-
-University Name: Universidade Estácio de Sá
-Major: System Analisys and Development
+University Name: Universidade 
+Major: 
 Current year and expected graduation year:4th semester,2025
 DEGREE: Bachelor's and Associate's degrees
 
-### 4.2.2 Availability and Timezone
-
-My timezone is UTC-3, and I'll dedicate my nights to the project, everyday past 19 p.m it's the best time to reach me.
-
-### 4.2.3 How to contact me 
-
-Email: sam.blacklotus@gmail.com
-Github: https://github.com/SamBlackLotus
-Telegram and Whatssap: +55 (62)992377969
