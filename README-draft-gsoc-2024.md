@@ -88,16 +88,16 @@ To bond with GSoC employees and contributors, meet mentors, read documentation a
 
 ### 3.2.2 May 26 – June 26
 
-# Week 1
+#### Week 1
 O primeiro objetivo, que calculo demorar em torno de uma semana, transformar em um boilerplater toda a página inicial do "Brasil Participativo", incluindo o login e as páginas do usuário conectado, não contando somente a página de administrador.
 
-# Week 2
+#### Week 2
 Começar a trabalhar na página do administrador, entendendo a fundo como funciona a alimentação das informações do processo participativo, assembléia, iniciativas e conferências, para transformar esses processos em um boilerplate onde a pessoa configurando, pode definir o que será utilizado, o que não será, deixando mais a utilização da plataforma.
 
-# Week 3
+#### Week 3
 Continuar transformando as funções da plataforma em boilerplate, de acordo com a priorização, para assim personalizar a utilização do portal.
 
-# Week 4
+#### Week 4
 Por ultimo investir um tempo em revisar o que foi feito para uma primeira versão de testes da plataforma.
 
 ### 3.2.3 June 27 – July 12 (finalizar e enviar projeto para avaliação de meio de prazo)
