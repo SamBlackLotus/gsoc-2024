@@ -27,6 +27,10 @@ Table of content
 
 4. **About me**
 
+    4.1 Who I Am
+
+    4.2 Technical Knowledge and Experience
+
 
 # 1 Introduction
 
@@ -48,9 +52,6 @@ The project will focus on creating a basic boilerplate that includes essential f
 Develop a customizable and easy-to-deploy boilerplate based on the principles and features of Brasil Participativo. Provide organizations with a tool to create participatory platforms tailored to their needs.
 Promote transparency, engagement, and collaboration between organizations and their stakeholder.
 
-Possible mentors: @LeoSilvaGomes @rocha.carla
-
-Expected size of the project: 350 hours
 
 # 2 Abstract
 
@@ -59,7 +60,10 @@ The current version of the platform was designed to serve a national scenario, a
 
 ## 2.2 Goals - The Boilerplate
 The objective of this project is to develop a boilerplate that will simplify the development of a participatory platform, which should serve any type of organization, facilitating its initial configuration, and the customization of projects and discussions that will be made available.
+
 As we are dealing with limited time for project development, it is extremely important to define which parts of the original Decidim will be prioritized, and maintain focus on the main features and customization.
+
+In essence, our product not only complements the objectives of the boiler plate development patterns, but also amplifies its value proposition. By streamlining development, enabling versatile customization, optimizing time management, ensuring seamless integration with Decidim, and prioritizing user-centric design, our solution empowers organizations to build robust participatory platforms that resonate with their stakeholders. Together with the boilerplate framework, our product forms a dynamic ecosystem that catalyzes the democratization of decision-making processes across diverse organizations.
 
 ## 2.3 Benefits
 A "Participatory Brazil" boilerplate will make it possible for organizations from all spheres to have their participatory platforms, creating environments that value communication and democracy in their decision-making, bringing visibility and inclusion to everyone who wants to contribute and give their opinion. Facilitating the creation of participatory platforms can encourage organizations to have a transparency portal, providing a channel that generates engagement and communication with society.
@@ -82,7 +86,7 @@ During this period I will remain in constant touch with my mentors and the commu
 
 Read documentation and prepare to work on the project, make the modifications, if any, that needs to be on existing schemas and design of new schemas (if needed to fit cleanly with Decidim and Brasil Participativo Architecture).Thus with the help of my mentor I will become absolutely clear about my future goals,the final database implementations that need to be done as well as the approach that I will follow.
 
-### 3.2.2 May 26 – June 26
+### 3.2.2 May 27 – July 01
 
 #### Week 1
 Rewrite the entire "Brasil Participativo" home page, including the login going to the administration panel access part, complying with good boilerplate development practices.
@@ -94,36 +98,60 @@ Work in the administration panel, understanding how information feeding of the p
 Continue the focus on transforming the remaining functions such as consultations, global moderators, newsletters and pages, taking into account whether or not they can be used by the institution, facilitating customization.
 
 #### Week 4
-Using the last week to focus on testing the system's functionality, testing each change made to standard, with the entire system working together, as well as what was not changed, to ensure that the integrity was not affected after bringing together all the changes made . This process will take into account an installation carried out from the beginning, all the configuration necessary for operation, as well as the integration tests of Decidim and Brasil Participativo.
+Focus on testing the system's functionality, testing each change made to standard, with the entire system working together, as well as what was not changed, to ensure that the integrity was not affected after bringing together all the changes made . This process will take into account an installation carried out from the beginning, all the configuration necessary for operation, as well as the integration tests of Decidim and Brasil Participativo.
 
-### 3.2.3 June 27 – July 12 
+#### Week 5
+In the final week, I intend to work exclusively on refining the project documentation and preparing myself to minimize possible inconsistencies that may occur during the handoff, understanding that the development team that will receive the project may have a different vision than mine, pointing out as many details as possible. and ensuring that documentation has versions in English and Portuguese.
+At this point in the project my approach to ensuring the success of the handoff will be to focus on efficient communication with the organization.
+
+### 3.2.3 July 02 – July 12 
 Finalize and submit project for mid-term evaluation.
 
-## 3.2.4 July 13 – August 16 
+### 3.2.4 July 13 – August 16 
 Work on changes and improvements requested after mid-term evaluation and prepare documentation for hand off.
 
-## 3.2.5 August 17 – August 26 
+### 3.2.5 August 17 – August 26 
 Final review and code submit.
 
-## 3.2.6 September 17 
+### 3.2.6 September 17 
 Final results announcement.
 
 # 4 About Me
 
-My name is Samara Alves Quintino, I'm an undergraduate student pursuing a Bachelor's degree on System Analisys and Development at University Estácio de Sá, currently on 4º semester, and this is my first time applying to Google Summer of Code.
+## 4.1 Who I Am 
 
-I currently work in a part time job as a development analyst, my career in technology is recent having started just 2 years ago. I have experience in some programming languages ​​such as Delphi which I use at work, Python in personal projects and some databases such as Oracle and Postgres.
+My name is Samara Alves Quintino, I'm an undergraduate student pursuing a Bachelor's degree on System Analisys and Development at University Estácio de Sá, currently on 4º semester, and this is my first time applying to Google Summer of Code.
 
 I am a mother of two children and I actively participate in the PyLadies Goiânia community, as a way to find encouragement and motivation in addition to helping other women find themselves in technology.
 
- I saw GSOC as a great opportunity for growth and learning. Since choosing to follow the back end path, I have always had a clear idea that I wanted to contribute to open source, and I am sure that I will be able to fulfill the proposed demands.
+I saw GSOC as a great opportunity for growth and learning. Since choosing to follow the back end path, I have always had a clear idea that I wanted to contribute to open source, and I am sure that I will be able to fulfill the proposed demands.
 
-Contact points and general information :
+## 4.2 Technical Knowledge and Experience
+
+I currently work in a part time job as a development analyst, my career in technology is recent having started just 2 years ago. I have experience in some programming languages ​​such as Delphi which I use at work, Python in personal projects and some databases such as Oracle and Postgres.
+
+During the time I interacted with the community, I had the opportunity to contribute to some specific issues, helping colleagues with doubts, making analyzes and suggestions for improvements such as:
+
+- Creating issue 182, as well as the issue's pull request, which in this case is a suggestion for improvement, where by changing the find_or_initialized_by command to find_by, it will allow the creation of the Decidim admin user, automatically after creating the DB.
+
+Issue: https://gitlab.com/lappis-unb/decidimbr/decidim-govbr/-/issues/182
+PR: https://gitlab.com/lappis-unb/decidimbr/decidim-govbr/-/merge_requests/176 
+
+
+- In issue 151, an in-depth analysis was made of the functioning of the definition of date and time when registering various types of system records, such as participatory processes, assemblies, consultations and all other existing processes within Participatory Brazil, in this analysis it was verified that with the current information, the current behavior is correct, as it always saves records using UTC time and according to the timezone configured for the organization, this date is recalculated.
+
+Issue: https://gitlab.com/lappis-unb/decidimbr/decidim-govbr/-/issues/151#note_1837186363
+
+#### Contact points and general information 
 
 Timezone : UTC-3
+
 Primary language : Brazilian Portuguese
+
 Other languages : English (Professional Proficiency)
+
 E-mail : sam.blacklotus@gmail.com
+
 Postal address: Anápolis, Goiás, Brazil
 
 
